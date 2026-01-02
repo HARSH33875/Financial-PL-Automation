@@ -1,2 +1,3 @@
-# Financial-PL-Automation
-Automated Excel-based P&amp;L reporting system with interactive dashboards
+This project delivers a fully automated financial reporting solution built entirely in Microsoft Excel using VBA macros, advanced formulas, and data visualization techniques. The system processes raw transaction data and automatically generates professional-grade Profit & Loss statements, complete with categorized income and expense analysis.
+Key features include intelligent data cleaning and categorization, dynamic pivot tables for multi-dimensional analysis, and an interactive dashboard with four comprehensive charts: monthly income vs. expenses comparison, expense category breakdown pie chart, revenue trend analysis, and top expense categories visualization.
+The system provides real-time financial metrics including total revenue, total expenses, net income, and profit margin percentage displayed in color-coded summary boxes. Users can process months of financial data with a single button click, eliminating manual calculations and reducing reporting time from hours to seconds while ensuring accuracy and consistency.
